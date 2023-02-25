@@ -11,7 +11,6 @@ import json
 import fitz #PyMuPDF
 import io
 from PIL import Image
-import hashlib
 import os
 
 def databaseName(pdf_file_name):
