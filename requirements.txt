@@ -7,6 +7,6 @@ fitz
 Counter==1.0.0
 pip==23.0.1
 pillow==8.4.0
-base64==1.0.0
+base64
 json==2.0.9
 flask_cors==3.0.10
