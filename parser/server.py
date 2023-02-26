@@ -7,8 +7,8 @@ import fitz #PyMuPDF
 import io
 import io
 import base64
-from get_youtube_links import *
-from articles import *
+from parser.get_youtube_links import *
+from parser.articles import *
 
 from flask import Flask, jsonify
 
